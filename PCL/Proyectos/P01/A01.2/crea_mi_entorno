@@ -1,0 +1,11 @@
+mkdir "PCL"
+
+cd PCL
+mkdir "Proyectos" "Varios"
+
+cd Poyectos
+mdkdir "P01" "P02" "P03" "P04"
+
+cd P01
+mdkdir "A01.1" "A01.2"
+ 

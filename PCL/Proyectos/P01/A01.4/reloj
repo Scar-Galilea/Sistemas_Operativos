@@ -1,0 +1,9 @@
+intervalo=$1
+contador=1
+while [ $contador -le $intervalo ]
+do
+echo $contador
+contador=$((contador + 1))
+sleep 1
+done
+
